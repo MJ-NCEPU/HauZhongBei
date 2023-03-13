@@ -1,0 +1,631 @@
+一 100061     与附件二没有相似问题
+在图4中，您可以了解重叠不完整（标有圆圈）。我想知道哪种算法QGIS使用光栅化？你的标准是什么？是否有百分比来排除某些信息？我理解，在几何术语中，shapefile的结果与光栅不同。对于该计划来做，光栅化进程必须是一个数学基础？
+<img src =“http://i.stack.imgur.com/4vcpi.png”Alt =“在此处输入图像说明”>
+<img src =“http://i.stack.imgur.com/utgtk.png”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/1flmw.png”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/q8d2x.png”Alt =“在此处输入图像说明”>
+
+1）99967
+我正在借QGIS（版本2.2 Valmiera）的第一步，我在知道QGIS在将多边形（Shapefile）转换为栅格时使用的数学标准进行一些困难。我正在使用100乘100像素的分辨率。命令：光栅 - 转换
+程序使用的百分比是多少？当我与shapefile和光栅重叠时，信息不是100％巧合。我理解信息并不完全一致，因为栅格在正方形中组成（像素）。
+如图所知，栅格是二进制系统0（缺席）和1（存在要研究的内容）。该“1”对应于正方形（像素）。你的百分比是多少？
+什么是数学机制？我正在失去信息？
+<hr>在图4中，您可以了解重叠不完整（标有圆圈）。我想知道哪种算法QGIS使用光栅化？你的标准是什么？是否有百分比来排除某些信息？我理解，在几何术语中，shapefile的结果与光栅不同。对于该计划来做，光栅化进程必须是一个数学基础？
+<img src =“http://i.stack.imgur.com/4vcpi.png”Alt =“在此处输入图像说明”>
+<img src =“http://i.stack.imgur.com/utgtk.png”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/1flmw.png”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/q8d2x.png”Alt =“在此处输入图像说明”>
+
+2）95677
+<img src =“http://i.stack.imgur.com/fzevu.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/frgzi.jpg”Alt =“在此处输入图像描述”>
+选项层是灰色的，无法选择。有谁知道为什么？
+
+3）52858
+有没有办法中断仰角号码下面的轮廓线？
+<img src =“http://i.stack.imgur.com/p1rcy.png”Alt =“在此处输入图像描述”>
+谢谢！
+
+4）91216
+我有一个AutoCAD DWG文件，一个字段以“，”和arcmap上的表查点打开 - 错误消息是无效的字段。icont将数据导出为shp文件，如何修复数据？谢谢
+<img src =“http://i.stack.imgur.com/9nv9h.png”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/xnz5e.png”Alt =“在此处输入图像描述”>
+
+5）89375
+<img src =“http://i.stack.imgur.com/0ybpj.png”Alt =“在此处输入图像描述”>
+我正在尝试在Tilemill中编辑我的传奇，以添加“注意”。我所做的基本上是复制图例源代码来执行此操作。但是，我希望“注意”部分中的线路间距更小。我看过Carccss手册，但我迈尔特不会得到我应该做的事情。
+这是我的传奇代码。我应该写什么代码，以使“备注”段落中的线条间距更小？
+<img src =“http://i.stack.imgur.com/i4ju5.png”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/gxhfl.png”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/dugpy.png”Alt =“在此处输入图像描述”>
+
+6）74900
+我试图通过QGIS 2.0模型内使用GDALWARP通过处理，但我认为实现无法正常工作。所以我想知道是否有人遇到过这个问题？
+<img src =“http://i.stack.imgur.com/whju8.png”Alt =“在此处输入图像描述”>
+
+7）14323
+今天，在从度假返回之后，我开始了我的QGIS 1.7并获得了这个可怕的信息：
+<img src =“http://i.stack.imgur.com/8ghei.png”Alt =“在此处输入图像描述”>帮助，任何人？
+
+9）79363
+我有一些麻烦，同时将这些点与某些街道匹配。你能借给我一只手吗？
+<img src =“http://i.stack.imgur.com/85787.png”Alt =“在此处输入图像描述”>
+
+10）43423
+MapInfo中的选项卡文件如下所示：
+<img src =“http://i.stack.imgur.com/kckck.png”Alt =“在此处输入图像描述”>
+但是当我将它导入QGIS（并转换为SHP）时，它看起来像这样：
+<img src =“http://i.stack.imgur.com/phfpo.png”Alt =“在此处输入图像描述”>
+如何使QGIS层看起来像MapInfo图层（我不知道这个功能的术语）
+
+二 89375   与附件二没有相似问题
+<img src =“http://i.stack.imgur.com/0ybpj.png”Alt =“在此处输入图像描述”>
+我正在尝试在Tilemill中编辑我的传奇，以添加“注意”。我所做的基本上是复制图例源代码来执行此操作。但是，我希望“注意”部分中的线路间距更小。我看过Carccss手册，但我迈尔特不会得到我应该做的事情。
+这是我的传奇代码。我应该写什么代码，以使“备注”段落中的线条间距更小？<img src =“http://i.stack.imgur.com/i4ju5.png”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/gxhfl.png”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/dugpy.png”Alt =“在此处输入图像描述”>
+1)52858
+有没有办法中断仰角号码下面的轮廓线？
+<img src =“http://i.stack.imgur.com/p1rcy.png”Alt =“在此处输入图像描述”>
+谢谢！
+2)91216
+我有一个AutoCAD DWG文件，一个字段以“，”和arcmap上的表查点打开 - 错误消息是无效的字段。icont将数据导出为shp文件，如何修复数据？谢谢
+<img src =“http://i.stack.imgur.com/9nv9h.png”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/xnz5e.png”Alt =“在此处输入图像描述”>
+3)74900
+我试图通过QGIS 2.0模型内使用GDALWARP通过处理，但我认为实现无法正常工作。所以我想知道是否有人遇到过这个问题？
+<img src =“http://i.stack.imgur.com/whju8.png”Alt =“在此处输入图像描述”>
+4)14323
+今天，在从度假返回之后，我开始了我的QGIS 1.7并获得了这个可怕的信息：
+<img src =“http://i.stack.imgur.com/8ghei.png”Alt =“在此处输入图像描述”>
+帮助，任何人？
+5)90794
+我使用了ArcGIS 10.2.1。在Windows 8上。我对DEM和<EM>计算统计数据</ em>的山丘函数。每次进入ArcMap Statistics Strays：
+<img src =“http://i.stack.imgur.com/a8iog.png”Alt =“在此处输入图像描述”>
+我尝试在马赛克上添加这个函数，但没有工作。
+<img src =“http://i.stack.imgur.com/gblws.png”Alt =“在此处输入图像描述”>
+我尝试关闭/在<em>启用</ em>地理处理，再次没有工作......
+任何想法如何“保持”它的功能？
+谢谢。
+6)93494
+我有一个线shapefile和一个点shapefile，和
+该行有自己的细分
+<img src =“http://i.stack.imgur.com/7sfxh.png”Alt =“在此处输入图像描述”>
+其属性表，
+<img src =“http://i.stack.imgur.com/36wiz.png”Alt =“在此处输入图像描述”>
+点shapefile在上面的线附近有点，而不是它
+<img src =“http://i.stack.imgur.com/s5oki.png”Alt =“在此处输入图像描述”>
+亲密的外观，
+<img src =“http://i.stack.imgur.com/eute6.png”Alt =“在此处输入图像说明”>
+<strong>我可以使用QGIS或其他开源工具在最接近点的位置拆分此行吗？</ strong>
+ <strong>以及此过程之后，我可以获得更多段的原始线路（因为拆分） 。</ strong>例如，找到线路上的位置，这是最接近的点，并在这个位置拆分线（星）。
+<img src =“http://i.stack.imgur.com/curgz.png”Alt =“在此处输入图像描述”>
+我在Windows 8.1 x64下使用QGIS 2.2。
+7)84637
+我有一个河流形状，从r.watershed模块得到，它看起来像这样：
+<img src =“http://i.stack.imgur.com/btriew.png”Alt =“在此处输入图像描述”>
+我想要分析的河上有八点，我只想要这条河段:(下面的第二张照片是我想要的河流）
+<img src =“http://i.stack.imgur.com/xdsyw.png”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/n8kjq.png”Alt =“在此处输入图像描述”>
+所以我打开它的属性表来删除我不想要的段，但我认为它不高效。
+我尝试了在地理处理工具中的相交工具，但结果不是我想要的。是否有更有效的方式来实现这一目标？
+8)43423
+MapInfo中的选项卡文件如下所示：
+<img src =“http://i.stack.imgur.com/kckck.png”Alt =“在此处输入图像描述”>
+但是当我将它导入QGIS（并转换为SHP）时，它看起来像这样：
+<img src =“http://i.stack.imgur.com/phfpo.png”Alt =“在此处输入图像描述”>
+如何使QGIS层看起来像MapInfo图层（我不知道这个功能的术语）
+9)75118
+我正在使用QGIS 1.8.0，并具有一些shapefile，其中一个我无法识别的“用户定义的CRS”。有人能够识别它吗？
+这是我在QGIS上看到的设置的图像。
+<img src =“http://i.stack.imgur.com/cqsfm.png”Alt =“在此处输入图像描述”>
+提前致谢。
+10)70654
+我遇到了将栅格目录转换为栅格数据集的问题。 4-5小时的流程后，我有错误（见下文） - 所有栅格都有〜21GB。数据有什么问题吗？
+<img src =“http://i.stack.imgur.com/gwsyf.png”Alt =“在此处输入图像描述”>
+我会非常感谢你的帮助:)
+==>当然，这里是：
+<img src =“http://i.stack.imgur.com/gxncu.png”Alt =“在此处输入图像说明”>
+
+
+三 95677  与附件二没有相似问题
+<img src =“http://i.stack.imgur.com/fzevu.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/frgzi.jpg”Alt =“在此处输入图像描述”>
+选项层是灰色的，无法选择。有谁知道为什么？
+1)95609
+Tilemills和Carcss有可能吗？
+<img src =“http://i.stack.imgur.com/wmkwa.jpg”Alt =“在此处输入图像说明”>
+2)85737
+我从QGIS下载了openLayers插件的谷歌地图，它就是这样：
+<img src =“http://i.stack.imgur.com/hvk7c.jpg”Alt =“在此处输入图像描述”>
+如何裁剪视图以从这样的地图获取某个区域：
+<img src =“http://i.stack.imgur.com/0hmli.jpg”Alt =“在此处输入图像说明”
+3)90875
+我需要从谷歌地图获取国家边境（例如，伊拉克）的坐标。我怎样才能做到这一点？
+<img src =“http://i.stack.imgur.com/3vlya.jpg”Alt =“在此处输入图像描述”>
+4)32877
+我添加了一个图像，解释了我的需求（见Schiefelsbach河）。
+我怎样才能做到这一点？
+谢谢
+<img src =“http://i.stack.imgur.com/clyns.jpg”Alt =“在此处输入图像描述”>
+5)58613
+即时使用ArcMap10.1。当我制作基于属性的缓冲区时，结果显示为重叠，那么我如何解决这个问题？<br>
+感谢<img src =“http://i.stack.imgur.com/t7idp.jpg”Alt =“在此处输入图像描述”>
+6)52858
+有没有办法中断仰角号码下面的轮廓线？
+<img src =“http://i.stack.imgur.com/p1rcy.png”Alt =“在此处输入图像描述”>
+谢谢！
+7)102755
+我有一个shapefile（我的流域限制）和一个栅格文件，我将它投影到shapefile坐标系，并将其单元格大小设置为1000m（面积= 1km2）。我的盆地区域为5400 km2，至少应至少包含栅格文件的近5000个单元格。但只有一个和半个细胞介绍了这个范围。
+有什么问题？
+<img src =“http://i.stack.imgur.com/itswa.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/la6nm.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/ac0sa.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/ijy1n.jpg”Alt =“在此处输入图像说明”>
+8)61126
+<img src =“http://i.stack.imgur.com/qneo3.jpg”Alt =“在此处输入图像描述”>
+有谁知道是否有程序或特定方法（计算），以便根据查询特定地质和钻井变量来创建偏差值？
+9)113405
+有谁知道我可以在哪里获得北美的数据（用于SSRS）。它不必爆炸。如果我在导出时添加Bing Maps我的36页PDF是250MB！
+<img src =“http://i.stack.imgur.com/l3vyo.jpg”Alt =“在此处输入图像描述”>
+10)81402
+有没有办法，我可以将下面的图像划分为不同的区域？
+就像谷歌地图一样，您可以在哪里看到国家边界。
+我正在使用ArcMap 10.0。
+<img src =“http://i.stack.imgur.com/aqg9m.jpg”Alt =“在此处输入图像描述”>
+
+
+
+四 102755   与附件二没有相似问题
+我有一个shapefile（我的流域限制）和一个栅格文件，我将它投影到shapefile坐标系，并将其单元格大小设置为1000m（面积= 1km2）。我的盆地区域为5400 km2，至少应至少包含栅格文件的近5000个单元格。但只有一个和半个细胞介绍了这个范围。有什么问题？
+<img src =“http://i.stack.imgur.com/itswa.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/la6nm.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/ac0sa.jpg”Alt =“在此处输入图像描述”>
+1)32877
+我添加了一个图像，解释了我的需求（见Schiefelsbach河）。
+我怎样才能做到这一点？
+谢谢
+
+<img src =“http://i.stack.imgur.com/clyns.jpg”Alt =“在此处输入图像描述”>
+2)16990
+您在ArcObjects中使用<strong> iqueryfilter.whereclause </ strong>语句的首选/最佳方法是什么？（例如，按属性选择特征）？
+
+然后，您需要检查<strong>源类型</ strong>（shapefile / personal / file地理数据库等），然后检查<strong>字段类型</ strong>等，然后才能实际构造whereclause语句和找到正确的<strong> sql语法</ strong>。我发现在所有那些撇号，引号等中丢失的很容易，特别是如果查询中使用多个字段。
+
+您可以轻松地构建Whereclaue语句的最佳方法是什么，以遵循有效的SQL语法..？
+3)58613
+即时使用ArcMap10.1。当我制作基于属性的缓冲区时，结果显示为重叠，那么我如何解决这个问题？<br>
+感谢<img src =“http://i.stack.imgur.com/t7idp.jpg”Alt =“在此处输入图像描述”>
+4)82401
+我使用选择工具选择了选择切换编辑的样本，然后打开了“选择功能</ strong>的工具<strong>更新”字段。但是输入的新值未在.tab值中更新。
+请建议我。
+在编辑之前
+<img src =“http://i.stack.imgur.com/qrdnd.jpg”Alt =“在此处输入图像描述”>
+选择编辑或更新值
+<img src =“http://i.stack.imgur.com/dz0oe.jpg”Alt =“在此处输入图像描述”>
+在编辑相同的剧情之后
+<img src =“http://i.stack.imgur.com/ehxsv.jpg”Alt =“在此处输入图像描述”>
+5)95609
+Tilemills和Carcss有可能吗？
+<img src =“http://i.stack.imgur.com/wmkwa.jpg”Alt =“在此处输入图像说明”>
+6)81402
+有没有办法，我可以将下面的图像划分为不同的区域？
+就像谷歌地图一样，您可以在哪里看到国家边界。
+我正在使用ArcMap 10.0。
+<img src =“http://i.stack.imgur.com/aqg9m.jpg”Alt =“在此处输入图像描述”>
+7)110073
+我正在使用qgis 2.2
+我有一个延伸超出我的基础图像的矢量线层（道路）（见下文）。
+<img src =“http://i.stack.imgur.com/dnukm.jpg”Alt =“在此处输入图像描述”>
+我希望在图像范围的边缘（见下文）将道路“剪切/修剪或删除或删除”。
+<img src =“http://i.stack.imgur.com/u3pie.jpg”Alt =“在此处输入图像描述”>
+我怎样才能实现这一目标？
+8)93440
+我想制作旅行时间轮廓图，其中显示了某些时间间隔内的区域可以从起源（例如市中心，机场）。
+我有一个巷道线性shapefile，提供旅行时间的信息和在线找到的一些示例地图，但缺乏如何制作地图的想法
+。谢谢你的帮助！ <img src =“http://i.stack.imgur.com/7998R.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/wlubl.jpg”alt =“在此处输入图像描述”>
+9)78214
+我的问题是：每次运行普通的Kriging或其他插值技术，我都可以从QGIS获取此错误消息
+<img src =“http://i.stack.imgur.com/37v9x.jpg”Alt =“在此处输入图像描述”>
+请注意，这些是SAGA的详细信息
+<img src =“http://i.stack.imgur.com/slxap.jpg”Alt =“在此处输入图像描述”>
+我想澄清一下：为什么我收到这个错误消息，我应该改变什么（路径是Saga Giu所在的？）
+谢谢
+10)113027
+我用ArcMap 10.2.2工作了MXD。 Legend属性 - 布局的默认值左右读取（标有红色椭圆）：
+<img src =“http://i.stack.imgur.com/vcxsg.jpg”Alt =“在此处输入图像描述”>
+当它没有标记时，我得到了这个传奇：
+<img src =“http://i.stack.imgur.com/bqnge.jpg”Alt =“在此处输入图像描述”>
+我想知道是否有一种方法是从右到左读取选项标记默认框的方法，所以结果将是这样的：
+<img src =“http://i.stack.imgur.com/txcqq.jpg”Alt =“在此处输入图像描述”>
+有谁知道用弧形做这件事的方法吗？
+
+五 80072  与附件二没有相似问题
+我遇到了执行插值的地理识压的经常发生问题。
+无论技术，我都使用i结束了以下错误。由于OGR选项卡中的状态QGIS无法在C驱动器中打开文件。
+我有很少的背景，所以消息错误毫无意义。有没有人能够解密消息并解决问题？
+谢谢
+<img src =“http://i.stack.imgur.com/bllnx.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/gjkqe.jpg”Alt =“在此处输入图像描述”>
+这是我使用的算法
+<img src =“http://i.stack.imgur.com/kfyak.jpg”Alt =“在此处输入图像说明”>
+1)95677
+<img src =“http://i.stack.imgur.com/fzevu.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/frgzi.jpg”Alt =“在此处输入图像描述”>
+选项层是灰色的，无法选择。有谁知道为什么？
+2)102755
+我有一个shapefile（我的流域限制）和一个栅格文件，我将它投影到shapefile坐标系，并将其单元格大小设置为1000m（面积= 1km2）。我的盆地区域为5400 km2，至少应至少包含栅格文件的近5000个单元格。但只有一个和半个细胞介绍了这个范围。
+有什么问题？
+<img src =“http://i.stack.imgur.com/itswa.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/la6nm.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/ac0sa.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/ijy1n.jpg”Alt =“在此处输入图像说明”>
+3)85737
+我从QGIS下载了openLayers插件的谷歌地图，它就是这样：
+<img src =“http://i.stack.imgur.com/hvk7c.jpg”Alt =“在此处输入图像描述”>
+如何裁剪视图以从这样的地图获取某个区域：
+<img src =“http://i.stack.imgur.com/0hmli.jpg”Alt =“在此处输入图像说明”
+4)32877
+我添加了一个图像，解释了我的需求（见Schiefelsbach河）。
+我怎样才能做到这一点？
+谢谢
+<img src =“http://i.stack.imgur.com/clyns.jpg”Alt =“在此处输入图像描述”>
+5)90875
+我需要从谷歌地图获取国家边境（例如，伊拉克）的坐标。我怎样才能做到这一点？
+<img src =“http://i.stack.imgur.com/3vlya.jpg”Alt =“在此处输入图像描述”>
+6)78214
+我的问题是：每次运行普通的Kriging或其他插值技术，我都可以从QGIS获取此错误消息
+<img src =“http://i.stack.imgur.com/37v9x.jpg”Alt =“在此处输入图像描述”>
+请注意，这些是SAGA的详细信息
+<img src =“http://i.stack.imgur.com/slxap.jpg”Alt =“在此处输入图像描述”>
+我想澄清一下：为什么我收到这个错误消息，我应该改变什么（路径是Saga Giu所在的？）
+谢谢
+7)82401
+我使用选择工具选择了选择切换编辑的样本，然后打开了“选择功能</ strong>的工具<strong>更新”字段。但是输入的新值未在.tab值中更新。
+请建议我。
+在编辑之前
+<img src =“http://i.stack.imgur.com/qrdnd.jpg”Alt =“在此处输入图像描述”>
+选择编辑或更新值
+<img src =“http://i.stack.imgur.com/dz0oe.jpg”Alt =“在此处输入图像描述”>
+在编辑相同的剧情之后
+<img src =“http://i.stack.imgur.com/ehxsv.jpg”Alt =“在此处输入图像描述”>
+8)76134
+我在vb中写了一个简单的脚本。但它无法在现场计算器中运行。我无法弄清楚它有什么问题。以下是屏幕截图。谢谢你的帮助。
+<img src =“http://i.stack.imgur.com/fhnfd.jpg”Alt =“在此处输入图像描述”>
+9)95609
+Tilemills和Carcss有可能吗？
+<img src =“http://i.stack.imgur.com/wmkwa.jpg”Alt =“在此处输入图像说明”>
+10)58613
+即时使用ArcMap10.1。当我制作基于属性的缓冲区时，结果显示为重叠，那么我如何解决这个问题？<br>
+感谢<img src =“http://i.stack.imgur.com/t7idp.jpg”Alt =“在此处输入图像描述”>
+
+
+六 93494  与附件二没有相似问题
+我有一个线shapefile和一个点shapefile，和该行有自己的细分
+<img src =“http://i.stack.imgur.com/7sfxh.png”Alt =“在此处输入图像描述”>
+及其属性表，
+<img src =“http://i.stack.imgur.com/36wiz.png”Alt =“在此处输入图像描述”>
+点shapefile在上面的线附近有点，而不是它
+<img src =“http://i.stack.imgur.com/s5oki.png”Alt =“在此处输入图像描述”>
+亲密的外观，<img src =“http://i.stack.imgur.com/eute6.png”Alt =“在此处输入图像说明”>
+<strong>我可以使用QGIS或其他开源工具在最接近点的位置拆分此行吗？</ strong> <strong>以及此过程之后，我可以获得更多段的原始线路（因为拆分)。
+</ strong>例如，找到线路上的位置，这是最接近的点，并在这个位置拆分线（星）。
+<img src =“http://i.stack.imgur.com/curgz.png”Alt =“在此处输入图像描述”>
+我在Windows 8.1 x64下使用QGIS 2.2。
+1)101459
+我有一个线shapefile和一个点shapefile，和
+该线只有一个部分<img src =“http://i.stack.imgur.com/7sfxh.png”Alt =“在此处输入图像描述”>
+及其属性表，<img src =“http://i.stack.imgur.com/nd1xm.png”Alt =“在此处输入图像描述”>
+点shapefile在上面的线附近有点，而不是它<img src =“http://i.stack.imgur.com/s5oki.png”Alt =“在此处输入图像描述”>
+亲密的外观，<img src =“http://i.stack.imgur.com/eute6.png”Alt =“在此处输入图像说明”>
+<strong>我想在最接近点</ strong> <strong>的位置拆分这个行，我想用更多的段来获得原始线（因为拆分）。</ strong>例如，找到线路上的位置，这是最接近的点，并在此位置拆分线路（星）。
+<img src =“http://i.stack.imgur.com/curgz.png”Alt =“在此处输入图像描述”>
+我将此行Shapefile加载到Postgis中，这是PostgreSQL中的我的SQL代码，
+<pre> <code> select st_astext（st_split（st_geomfromtext（'linestring（0 0,227907.60 2746404.62,200 200，400 400）'），
+       st_line_interpolate_point（st_geomfromtext（'linestring（0,2,207907.60 2746404.62,200 200,400 400）'），0.2））））
+</ code> </ pre>
+我检查了这一行的表，它没有被缝合。
+我在哪里犯错误？我是新的使用st_split，请给我任何建议，谢谢。
+在Windows 8.1 x64下，我正在使用qgis 2.2，postgresql 9.2和postgis 2.0.4。
+<hr>更新＃1
+@simplexio，我使用了你的代码，
+<pre> <code> select st_line_substring（st_geomfromtext（'linestring（0,227907.60 2746404.62,200 200，400 400）'），0,0.200）作为GEOM进入split_line;
+</ code> </ pre>并获得了一个名为split_line的新表，
+<img src =“http://i.stack.imgur.com/yhkwq.png”Alt =“在此处输入图像描述”>
+但是，当我使用了您发布的以下代码，
+<pre> <code> select st_line_substring（行，0，st_line_locate_point（l.line，p.point））为from_start_geom，
+       st_line_substring（l.line，st_line_locate_point（l.line，p.point），1）to_end_geom，l.line_id，p.point_id从线l，point p
+其中l.ine_id = 1，p.point_id = 1
+</ code> </ pre>我有一个语法错误，<img src =“http://i.stack.imgur.com/tkghd.png”Alt =“在此处输入图像描述”>
+如何解决此问题并继续前进？我应该在哪里分配我想要拆分为st_split的线？
+2)22562
+我们目前正在处理以下问题：<br>
+<strong>如何找到椭圆围绕凸多边形的椭圆？</ strong> <br>
+最近的Googling和大量的阅读可能<strong>不是</ strong>帮助我如此多:( <br>
+<img src =“http://i.stack.imgur.com/74mcy.png”Alt =“在此处输入图像描述”>
+3)52858
+有没有办法中断仰角号码下面的轮廓线？
+<img src =“http://i.stack.imgur.com/p1rcy.png”Alt =“在此处输入图像描述”>
+谢谢！
+4)74900
+我试图通过QGIS 2.0模型内使用GDALWARP通过处理，但我认为实现无法正常工作。所以我想知道是否有人遇到过这个问题？
+<img src =“http://i.stack.imgur.com/whju8.png”Alt =“在此处输入图像描述”>
+5)14323
+今天，在从度假返回之后，我开始了我的QGIS 1.7并获得了这个可怕的信息：
+<img src =“http://i.stack.imgur.com/8ghei.png”Alt =“在此处输入图像描述”>
+帮助，任何人？
+6)43423
+MapInfo中的选项卡文件如下所示：
+<img src =“http://i.stack.imgur.com/kckck.png”Alt =“在此处输入图像描述”>
+但是当我将它导入QGIS（并转换为SHP）时，它看起来像这样：
+<img src =“http://i.stack.imgur.com/phfpo.png”Alt =“在此处输入图像描述”>
+如何使QGIS层看起来像MapInfo图层（我不知道这个功能的术语）
+7)50117
+为什么我不能“将标签列添加到属性表”，为什么我不能使用“字母间距”，“字距”等？我有一个shp文件。 QGIS版本1.9
+<img src =“http://i.stack.imgur.com/uqbnn.png”Alt =“在此处输入图像描述”>
+8)70654
+我遇到了将栅格目录转换为栅格数据集的问题。 4-5小时的流程后，我有错误（见下文） - 所有栅格都有〜21GB。数据有什么问题吗？
+<img src =“http://i.stack.imgur.com/gwsyf.png”Alt =“在此处输入图像描述”>
+我会非常感谢你的帮助:)
+==>当然，这里是：
+<img src =“http://i.stack.imgur.com/gxncu.png”Alt =“在此处输入图像说明”>
+9)81177
+任何人都知道如何从控制台到QGIS的形状文件进行颜色渐变（orin python）？就像下面的图像一样。
+<img src =“http://i.stack.imgur.com/km9pu.png”Alt =“在此处输入图像描述”>
+10)98341
+我几乎是积极的，我已经数字化了多边形，并且我已经看到了在草图期间在顶点上掉落时显示的每个段。我认为我无意中配置了一些东西，现在我无法恢复。
+一旦我完成草图（通过双击或F2），多边形重绘并按预期显示。符号具有大纲，只有一个功能模板。
+这是多边形，中间素描：
+<img src =“http://i.stack.imgur.com/ejoqd.png”Alt =“在此处输入图像说明”>
+我期待前个细分的线条，但没有得到它们。
+在我完成草图后，这是多边形：
+<img src =“http://i.stack.imgur.com/x3rxz.png”Alt =“在此处输入图像描述”>
+以下是我的配置，同时数字化多边形：
+<img src =“http://i.stack.imgur.com/qxd7w.png”Alt =“在此处输入图像描述”>
+这是我正在使用的施工工具：<br>
+<img src =“http://i.stack.imgur.com/gunws.png”Alt =“在此处输入图像描述”>
+
+
+
+七  85737  与附件二没有相似问题
+我从QGIS下载了openLayers插件的谷歌地图，它就是这样：
+<img src =“http://i.stack.imgur.com/hvk7c.jpg”Alt =“在此处输入图像描述”>
+如何裁剪视图以从这样的地图获取某个区域：
+<img src =“http://i.stack.imgur.com/0hmli.jpg”Alt =“在此处输入图像说明”
+1)90875
+我需要从谷歌地图获取国家边境（例如，伊拉克）的坐标。我怎样才能做到这一点？
+<img src =“http://i.stack.imgur.com/3vlya.jpg”Alt =“在此处输入图像描述”>
+2)95609
+Tilemills和Carcss有可能吗？
+<img src =“http://i.stack.imgur.com/wmkwa.jpg”Alt =“在此处输入图像说明”>
+3)81402
+有没有办法，我可以将下面的图像划分为不同的区域？
+就像谷歌地图一样，您可以在哪里看到国家边界。
+我正在使用ArcMap 10.0。
+<img src =“http://i.stack.imgur.com/aqg9m.jpg”Alt =“在此处输入图像描述”>
+4)32877
+我添加了一个图像，解释了我的需求（见Schiefelsbach河）。
+我怎样才能做到这一点？
+谢谢
+<img src =“http://i.stack.imgur.com/clyns.jpg”Alt =“在此处输入图像描述”>
+5)58613
+即时使用ArcMap10.1。当我制作基于属性的缓冲区时，结果显示为重叠，那么我如何解决这个问题？<br>
+感谢<img src =“http://i.stack.imgur.com/t7idp.jpg”Alt =“在此处输入图像描述”>
+6)78214
+我的问题是：每次运行普通的Kriging或其他插值技术，我都可以从QGIS获取此错误消息
+<img src =“http://i.stack.imgur.com/37v9x.jpg”Alt =“在此处输入图像描述”>
+请注意，这些是SAGA的详细信息
+<img src =“http://i.stack.imgur.com/slxap.jpg”Alt =“在此处输入图像描述”>
+我想澄清一下：为什么我收到这个错误消息，我应该改变什么（路径是Saga Giu所在的？）
+谢谢
+7)102755
+我有一个shapefile（我的流域限制）和一个栅格文件，我将它投影到shapefile坐标系，并将其单元格大小设置为1000m（面积= 1km2）。我的盆地区域为5400 km2，至少应至少包含栅格文件的近5000个单元格。但只有一个和半个细胞介绍了这个范围。
+有什么问题？
+<img src =“http://i.stack.imgur.com/itswa.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/la6nm.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/ac0sa.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/ijy1n.jpg”Alt =“在此处输入图像说明”>
+8)52858
+有没有办法中断仰角号码下面的轮廓线？
+<img src =“http://i.stack.imgur.com/p1rcy.png”Alt =“在此处输入图像描述”>
+谢谢！
+9)71400
+<img src =“http://i.stack.imgur.com/rkcdd.jpg”Alt =“在此处输入图像说明”>
+如何更改PitcherSwitcher属性（单选按钮）？所以我想改变就像下拉列表一样改变？
+10)82401
+我使用选择工具选择了选择切换编辑的样本，然后打开了“选择功能</ strong>的工具<strong>更新”字段。但是输入的新值未在.tab值中更新。
+请建议我。
+在编辑之前
+<img src =“http://i.stack.imgur.com/qrdnd.jpg”Alt =“在此处输入图像描述”>
+选择编辑或更新值
+<img src =“http://i.stack.imgur.com/dz0oe.jpg”Alt =“在此处输入图像描述”>
+在编辑相同的剧情之后
+<img src =“http://i.stack.imgur.com/ehxsv.jpg”Alt =“在此处输入图像描述”>
+
+八 82998  与附件二没有相似问题
+我正在尝试将本地矢量R <sub> ecef </ sub>从ecuec坐标系转换为ENU坐标系（R <sub> enu </ sub>）
+Ecef =以地环形的地球固定坐标系
+ENU =东，北，坐标，基于局部地球的坐标系，我在稍后看到了一本书以下等式：
+<img src =“http://i.stack.imgur.com/eq5ib.png”alt =“r_enu”>哪里
+<img src =“http://i.stack.imgur.com/z2p5k.png”Alt =“R_L”>，
+<img src =“http://i.stack.imgur.com/cwsnx.png”alt =“r_3_theta”>和
+<img src =“http://i.stack.imgur.com/znlsq.png”alt =“r_2_theta”>
+我不明白的是为什么
+<img src =“http://i.stack.imgur.com/aijjd.png”alt =“r_3_pi”>
+由于<img src =“http://i.stack.imgur.com/jgwrd.png”alt =“cos_pi”>和<img src =“http://i.stack.imgur.com/lzvxm.png” alt =“sin_pi”>我错过了什么？
+1）80598
+<img src =“http://i.stack.imgur.com/csuyo.png”Alt =“在此处输入图像描述”>
+以下是一个图显示了使用“imultivariateop.mlclassify”之后分类的结果，但如何迭代它们？我可以迭代它们目录而不是使用IrasterWorkspace或IrasterDataset吗？因为我刚刚发现它很复杂。谢谢。
+2）12010
+如何使用从属性表悬停在其上或右键单击它或类似于此内容的情况下，使用从属性表中提取的信息弹出文本信息。示例在提供的图片中。
+您是否能够从AT at或全部列出某些列的特定列包含？
+这样做时，您是否限制了如何完成弹出窗口的选项？
+谢谢，zoran
+<img src =“http://i.stack.imgur.com/qy3pd.png”Alt =“在此处输入图像说明”>
+3）21612
+我想在OpenLayers中展示具有不同颜色的多个折线。任何人都可以引导我。
+我在谷歌地图中完成了这一点。但我不知道如何在OpenLayers中做到这一点。我是纽伯到森林列表。
+<img src =“http://i.stack.imgur.com/pwn4q.png”alt =“在此处输入图像描述”>
+4）94541
+我正在创建一个用于跟踪列车的应用程序。当火车靠近火车站时，系统应该识别它。
+为此，我想收集站附近的GPS坐标并保存它们。然后当列车发送GPS坐标到系统时，它将比较保存的坐标并识别站名称......
+<img src =“http://i.stack.imgur.com/yctyz.png”Alt =“ - ”>
+如何在从起点到终点中找到所有经度和纬度（所有GPS坐标）？
+如果线路短（如100米长），我想在该行中找到所有GPS点，以便我可以将它们保存在数据库中..
+<img src =“http://i.stack.imgur.com/thkbt.png”Alt =“”>
+这就是为什么我想要收集那条线的GPS点
+5）27615
+<img src =“http://i.stack.imgur.com/fplrw.png”Alt =“在此处输入图像描述”>
+我有一个包含矢量'行1'的图层，它源于第二层上的点'a'。我还有第三层上的点'b'。我想创建具有相同角度和长度'第1行'的第2行'，但源自点'b'。我想为包含“第1行”的层上的所有向量重复这一点。
+我正在使用ArcGIS Engine 10 for .NET。我可以与ArcGIS 10一起使用的解决方案，因此我可以在ArcGIS引擎中创建相同的地理处理工具。
+欢迎任何建议。
+6）97930
+我正在模型构建器中的数据集上运行许多空间查询，并希望将所选功能的数量保存在表中。我不希望特色本身，但只是查询找到的功能的数量。这可能吗？
+<img src =“http://i.stack.imgur.com/w5zbx.jpg”Alt =“在此处输入图像说明”>
+我想要
+ID |网站|数
+1 |布里斯班| 9789
+2 | towoomba | 8389.
+等等...
+7)92264
+我正在尝试去除锡表面的拉伸边缘，而无需在我想要剪裁的特征周围绘制多边形。没有免费手绘如何做到这一点？我在思考边缘检测方法可以工作。
+这是一个例子：
+<img src =“http://i.stack.imgur.com/tynww.png”Alt =“在此处输入图像描述”>
+谢谢！
+8)88393
+<img src =“http://i.stack.imgur.com/wn4zp.png”Alt =“输入图像描述此处”>是GeoServer可使用的OpenSource Server监控？喜欢看门狗和nagios？
+假设如果MAPMeter会停止工作，如果MAPMeter会自动启动它......它应该发生以下图像。可能吗 ？
+9)93138
+我想导出我在ArcGIS中制作给QGIS的IDW栅格，但是当我导出栅格时，值在那里但不再显示。它们存储在每个小区内，并且不包含在IDW搜索半径中。
+如何确保我可以创建与原始图像相同的图像。
+原版的
+<img src =“http://i.stack.imgur.com/tnygc.png”Alt =“在此处输入图像描述”>
+导出版本
+<img src =“http://i.stack.imgur.com/uvnrn.png”Alt =“在此处输入图像说明”>
+10)32222
+我有一个Landuse分类栅格文件（6级）的大面积。但我需要它在矢量多边形中，所以我将传染媒介。到目前为止没有问题，但结果是 - 当然 - 每个像素都是用其所有EGDES的所有像素都标记:)但我需要它像轮廓一样平滑。所以，好的，我可以用博伊尔的算法概括它，但它对于我的电脑来说太多了计算......
+那我该怎么办？谢谢！
+马丁
+<img src =“http://i.stack.imgur.com/udgtp.png”Alt =“在此处输入图像描述”>
+
+九 91216  与附件二没有相似问题
+我有一个AutoCAD DWG文件，一个字段以“，”和arcmap上的表查点打开 - 错误消息是无效的字段。icont将数据导出为shp文件，如何修复数据？谢谢
+<img src =“http://i.stack.imgur.com/9nv9h.png”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/xnz5e.png”Alt =“在此处输入图像描述”>
+1）52858
+有没有办法中断仰角号码下面的轮廓线？
+<img src =“http://i.stack.imgur.com/p1rcy.png”Alt =“在此处输入图像描述”>
+谢谢！
+2）74900
+我试图通过QGIS 2.0模型内使用GDALWARP通过处理，但我认为实现无法正常工作。所以我想知道是否有人遇到过这个问题？
+<img src =“http://i.stack.imgur.com/whju8.png”Alt =“在此处输入图像描述”>
+3）14323
+今天，在从度假返回之后，我开始了我的QGIS 1.7并获得了这个可怕的信息：
+<img src =“http://i.stack.imgur.com/8ghei.png”Alt =“在此处输入图像描述”>
+帮助，任何人？
+4）43423
+MapInfo中的选项卡文件如下所示：
+<img src =“http://i.stack.imgur.com/kckck.png”Alt =“在此处输入图像描述”>
+但是当我将它导入QGIS（并转换为SHP）时，它看起来像这样：
+<img src =“http://i.stack.imgur.com/phfpo.png”Alt =“在此处输入图像描述”>
+如何使QGIS层看起来像MapInfo图层（我不知道这个功能的术语）
+5）102755
+我有一个shapefile（我的流域限制）和一个栅格文件，我将它投影到shapefile坐标系，并将其单元格大小设置为1000m（面积= 1km2）。我的盆地区域为5400 km2，至少应至少包含栅格文件的近5000个单元格。但只有一个和半个细胞介绍了这个范围。
+有什么问题？
+<img src =“http://i.stack.imgur.com/itswa.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/la6nm.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/ac0sa.jpg”Alt =“在此处输入图像描述”>
+<img src =“http://i.stack.imgur.com/ijy1n.jpg”Alt =“在此处输入图像说明”>
+6）50117
+为什么我不能“将标签列添加到属性表”，为什么我不能使用“字母间距”，“字距”等？我有一个shp文件。 QGIS版本1.9
+<img src =“http://i.stack.imgur.com/uqbnn.png”Alt =“在此处输入图像描述”>
+7）70654
+我遇到了将栅格目录转换为栅格数据集的问题。 4-5小时的流程后，我有错误（见下文） - 所有栅格都有〜21GB。数据有什么问题吗？
+<img src =“http://i.stack.imgur.com/gwsyf.png”Alt =“在此处输入图像描述”>
+我会非常感谢你的帮助:)
+==>当然，这里是：
+<img src =“http://i.stack.imgur.com/gxncu.png”Alt =“在此处输入图像说明”>
+8）93494
+我有一个线shapefile和一个点shapefile，和
+该行有自己的细分
+<img src =“http://i.stack.imgur.com/7sfxh.png”Alt =“在此处输入图像描述”>
+及其属性表，
+<img src =“http://i.stack.imgur.com/36wiz.png”Alt =“在此处输入图像描述”>
+点shapefile在上面的线附近有点，而不是它
+<img src =“http://i.stack.imgur.com/s5oki.png”Alt =“在此处输入图像描述”>
+亲密的外观，
+<img src =“http://i.stack.imgur.com/eute6.png”Alt =“在此处输入图像说明”>
+<strong>我可以使用QGIS或其他开源工具在最接近点的位置拆分此行吗？</ strong> <strong>以及此过程之后，我可以获得更多段的原始线路（因为拆分） 。</ strong>例如，找到线路上的位置，这是最接近的点，并在这个位置拆分线（星）。
+<img src =“http://i.stack.imgur.com/curgz.png”Alt =“在此处输入图像描述”>
+我在Windows 8.1 x64下使用QGIS 2.2。
+9）74276
+我正在使用PostgreSQL 8. $和postgis，我需要将OSM文件导入数据库。我用实用程序尝试了它，但我有hstore扩展名。有谁知道如何解决这个问题？谢谢
+<img src =“http://i.stack.imgur.com/4ewdh.png”Alt =“在此处输入图像描述”>
+10）32877
+我添加了一个图像，解释了我的需求（见Schiefelsbach河）。
+我怎样才能做到这一点？
+谢谢
+
+<img src =“http://i.stack.imgur.com/clyns.jpg”Alt =“在此处输入图像描述”>
+
+十 113027  与附件二没有相似问题
+我用ArcMap 10.2.2工作了MXD。 Legend属性 - 布局的默认值左右读取（标有红色椭圆）：
+<img src =“http://i.stack.imgur.com/vcxsg.jpg”Alt =“在此处输入图像描述”>
+当它没有标记时，我得到了这个传奇：
+<img src =“http://i.stack.imgur.com/bqnge.jpg”Alt =“在此处输入图像描述”>
+我想知道是否有一种方法是从右到左读取选项标记默认框的方法，所以结果将是这样的：
+<img src =“http://i.stack.imgur.com/txcqq.jpg”Alt =“在此处输入图像描述”>
+有谁知道用弧形做这件事的方法吗？
+1）61126
+<img src =“http://i.stack.imgur.com/qneo3.jpg”Alt =“在此处输入图像描述”> 
+有谁知道是否有程序或特定方法（计算），以便根据查询特定地质和钻井变量来创建偏差值？
+2）97864
+我正在尝试在Windows XP上使用QGIS 2.0创建斜率栅格图层。
+我从带有z高程属性的点图层开始。
+<img src =“http://i.stack.imgur.com/0u9zh.jpg”Alt =“点”>
+然后我使用插值插件来创建一个dem。
+<img src =“http://i.stack.imgur.com/hhyhp.jpg”Alt =“在此处输入图像描述”>
+但是，当我使用光栅地形分析插件时，它给了我一个奇怪的输出。我能做错什么？
+<img src =“http://i.stack.imgur.com/ckwal.jpg”Alt =“在此处输入图像描述”>
+3）32877
+我添加了一个图像，解释了我的需求（见Schiefelsbach河）。
+我怎样才能做到这一点？
+谢谢
+<img src =“http://i.stack.imgur.com/clyns.jpg”Alt =“在此处输入图像描述”>
+4）82401
+我使用选择工具选择了选择切换编辑的样本，然后打开了“选择功能</ strong>的工具<strong>更新”字段。
+但是输入的新值未在.tab值中更新。请建议我。在编辑之前
+<img src =“http://i.stack.imgur.com/qrdnd.jpg”Alt =“在此处输入图像描述”>
+选择编辑或更新值
+<img src =“http://i.stack.imgur.com/dz0oe.jpg”Alt =“在此处输入图像描述”>
+在编辑相同的剧情之后
+<img src =“http://i.stack.imgur.com/ehxsv.jpg”Alt =“在此处输入图像描述”>
+5）58613
+即时使用ArcMap10.1。当我制作基于属性的缓冲区时，结果显示为重叠，那么我如何解决这个问题？<br>
+感谢<img src =“http://i.stack.imgur.com/t7idp.jpg”Alt =“在此处输入图像描述”>
+6）113405
+有谁知道我可以在哪里获得北美的数据（用于SSRS）。它不必爆炸。如果我在导出时添加Bing Maps我的36页PDF是250MB！
+<img src =“http://i.stack.imgur.com/l3vyo.jpg”Alt =“在此处输入图像描述”>
+7）110073
+我正在使用qgis 2.2
+我有一个延伸超出我的基础图像的矢量线层（道路）（见下文）。
+<img src =“http://i.stack.imgur.com/dnukm.jpg”Alt =“在此处输入图像描述”>
+我希望在图像范围的边缘（见下文）将道路“剪切/修剪或删除或删除”。
+<img src =“http://i.stack.imgur.com/u3pie.jpg”Alt =“在此处输入图像描述”>
+我怎样才能实现这一目标？
+8）78214
+我的问题是：每次运行普通的Kriging或其他插值技术，我都可以从QGIS获取此错误消息
+<img src =“http://i.stack.imgur.com/37v9x.jpg”Alt =“在此处输入图像描述”>
+请注意，这些是SAGA的详细信息
+<img src =“http://i.stack.imgur.com/slxap.jpg”Alt =“在此处输入图像描述”>
+我想澄清一下：为什么我收到这个错误消息，我应该改变什么（路径是Saga Giu所在的？）
+谢谢
+9）81402
+有没有办法，我可以将下面的图像划分为不同的区域？
+就像谷歌地图一样，您可以在哪里看到国家边界。
+我正在使用ArcMap 10.0。
+<img src =“http://i.stack.imgur.com/aqg9m.jpg”Alt =“在此处输入图像描述”>
+10）95609
+Tilemills和Carcss有可能吗？
+<img src =“http://i.stack.imgur.com/wmkwa.jpg”Alt =“在此处输入图像说明”>
